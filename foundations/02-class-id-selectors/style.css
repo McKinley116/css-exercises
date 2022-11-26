@@ -1,0 +1,25 @@
+/* styles.css */
+
+p {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+div {
+    
+}
+
+#number2 {
+    font-size: 36px;
+    color: blue;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
